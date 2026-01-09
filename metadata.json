@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SHI'ERA - Tech Innovators Platform",
+  "description": "A comprehensive tech-learning and community platform organized by Muslim students, featuring courses, mentorship, events, and a job board with a focus on Islamic values.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
